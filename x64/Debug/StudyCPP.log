@@ -1,0 +1,4 @@
+﻿  Project01.cpp
+D:\CPP\StudyCPP\Project01.cpp(112): warning C4715: 'DepositMoney': not all control paths return a value
+D:\CPP\StudyCPP\Project01.cpp(137): warning C4715: 'WithdrawMoney': not all control paths return a value
+  StudyCPP.vcxproj -> D:\CPP\StudyCPP\x64\Debug\StudyCPP.exe
