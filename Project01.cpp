@@ -25,7 +25,7 @@ typedef struct
 
 SCInfo customerInfo[100];
 
-int main()
+int mainTest()
 {
 	while(1)
 	{
