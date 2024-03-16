@@ -55,7 +55,7 @@ typedef struct __point
 
 SPoint& PntAdder(const SPoint& _p1, const SPoint& _p2);
 
-int mainStudy()
+int mainChapter02()
 {
 	// 참조자
 	// int & num2 = num1일 때 num2가 num1의 참조자이다.

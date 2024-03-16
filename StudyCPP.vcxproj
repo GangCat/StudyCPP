@@ -127,13 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Calculator.cpp" />
     <ClCompile Include="Chapter01.cpp" />
     <ClCompile Include="Chapter02.cpp" />
+    <ClCompile Include="Chapter03.cpp" />
     <ClCompile Include="PartitionTest1.cpp" />
+    <ClCompile Include="Printer.cpp" />
     <ClCompile Include="Project01.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Calculator.h" />
     <ClInclude Include="PartitionTest.h" />
+    <ClInclude Include="Printer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,3 +1,9 @@
-﻿  Chapter02.cpp
-D:\CPP\StudyCPP\Chapter02.cpp(290,1): warning C4172: returning address of local variable or temporary: num
+﻿  Calculator.cpp
+  Chapter03.cpp
+D:\CPP\StudyCPP\Chapter03.cpp(153,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CPP\StudyCPP\Chapter03.cpp(153,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CPP\StudyCPP\Chapter03.cpp(155,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CPP\StudyCPP\Chapter03.cpp(156,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CPP\StudyCPP\Chapter03.cpp(156,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
   StudyCPP.vcxproj -> D:\CPP\StudyCPP\x64\Debug\StudyCPP.exe
