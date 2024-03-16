@@ -131,12 +131,15 @@
     <ClCompile Include="Chapter01.cpp" />
     <ClCompile Include="Chapter02.cpp" />
     <ClCompile Include="Chapter03.cpp" />
+    <ClCompile Include="Chapter04.cpp" />
+    <ClCompile Include="NameCard.cpp" />
     <ClCompile Include="PartitionTest1.cpp" />
     <ClCompile Include="Printer.cpp" />
     <ClCompile Include="Project01.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h" />
+    <ClInclude Include="NameCard.h" />
     <ClInclude Include="PartitionTest.h" />
     <ClInclude Include="Printer.h" />
   </ItemGroup>

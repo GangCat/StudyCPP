@@ -128,7 +128,7 @@ void Car::Break()
 
 
 
-int main()
+int main3()
 {
 	//Car run99 = {"run99", 100, 0};
 	//Accel(run99);

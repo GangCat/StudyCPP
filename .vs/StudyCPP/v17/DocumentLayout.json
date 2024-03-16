@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\CPP\\StudyCPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Chapter04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Chapter04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Chapter03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Chapter03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\NameCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:NameCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Chapter01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Chapter01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Printer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Printer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\PartitionTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:PartitionTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Printer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Printer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\NameCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:NameCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Printer.h",
-              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Printer.h",
-              "RelativeDocumentMoniker": "Printer.h",
-              "ToolTip": "D:\\CPP\\StudyCPP\\Printer.h",
-              "RelativeToolTip": "Printer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-14T10:54:34.863Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Printer.cpp",
-              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Printer.cpp",
-              "RelativeDocumentMoniker": "Printer.cpp",
-              "ToolTip": "D:\\CPP\\StudyCPP\\Printer.cpp",
-              "RelativeToolTip": "Printer.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-14T10:56:03.693Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Chapter03.cpp",
-              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Chapter03.cpp",
-              "RelativeDocumentMoniker": "Chapter03.cpp",
-              "ToolTip": "D:\\CPP\\StudyCPP\\Chapter03.cpp",
-              "RelativeToolTip": "Chapter03.cpp",
-              "ViewState": "AQIAAI4AAAAAAAAAAAAMwJYAAAAAAAAA",
+              "Title": "NameCard.cpp",
+              "DocumentMoniker": "D:\\CPP\\StudyCPP\\NameCard.cpp",
+              "RelativeDocumentMoniker": "NameCard.cpp",
+              "ToolTip": "D:\\CPP\\StudyCPP\\NameCard.cpp",
+              "RelativeToolTip": "NameCard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-14T10:19:46.833Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Calculator.cpp",
-              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Calculator.cpp",
-              "RelativeDocumentMoniker": "Calculator.cpp",
-              "ToolTip": "D:\\CPP\\StudyCPP\\Calculator.cpp",
-              "RelativeToolTip": "Calculator.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-14T10:48:45.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculator.h",
-              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Calculator.h",
-              "RelativeDocumentMoniker": "Calculator.h",
-              "ToolTip": "D:\\CPP\\StudyCPP\\Calculator.h",
-              "RelativeToolTip": "Calculator.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-14T10:46:32.206Z",
+              "WhenOpened": "2024-03-16T00:40:19.243Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PartitionTest.h",
-              "DocumentMoniker": "D:\\CPP\\StudyCPP\\PartitionTest.h",
-              "RelativeDocumentMoniker": "PartitionTest.h",
-              "ToolTip": "D:\\CPP\\StudyCPP\\PartitionTest.h",
-              "RelativeToolTip": "PartitionTest.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "NameCard.h",
+              "DocumentMoniker": "D:\\CPP\\StudyCPP\\NameCard.h",
+              "RelativeDocumentMoniker": "NameCard.h",
+              "ToolTip": "D:\\CPP\\StudyCPP\\NameCard.h",
+              "RelativeToolTip": "NameCard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-11T10:13:19.922Z"
+              "WhenOpened": "2024-03-16T00:32:54.424Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Chapter01.cpp",
-              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Chapter01.cpp",
-              "RelativeDocumentMoniker": "Chapter01.cpp",
-              "ToolTip": "D:\\CPP\\StudyCPP\\Chapter01.cpp",
-              "RelativeToolTip": "Chapter01.cpp",
-              "ViewState": "AQIAAEcAAAAAAAAAAAApwFkAAAAhAAAA",
+              "DocumentIndex": 0,
+              "Title": "Chapter04.cpp",
+              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Chapter04.cpp",
+              "RelativeDocumentMoniker": "Chapter04.cpp",
+              "ToolTip": "D:\\CPP\\StudyCPP\\Chapter04.cpp",
+              "RelativeToolTip": "Chapter04.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-04T14:36:08.094Z"
+              "WhenOpened": "2024-03-16T00:03:46.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             }
           ]
         }

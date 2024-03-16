@@ -1,9 +1,2 @@
-﻿  Calculator.cpp
-  Chapter03.cpp
-D:\CPP\StudyCPP\Chapter03.cpp(153,23): warning C4305: 'argument': truncation from 'double' to 'float'
-D:\CPP\StudyCPP\Chapter03.cpp(153,18): warning C4305: 'argument': truncation from 'double' to 'float'
-D:\CPP\StudyCPP\Chapter03.cpp(155,23): warning C4305: 'argument': truncation from 'double' to 'float'
-D:\CPP\StudyCPP\Chapter03.cpp(156,23): warning C4305: 'argument': truncation from 'double' to 'float'
-D:\CPP\StudyCPP\Chapter03.cpp(156,18): warning C4305: 'argument': truncation from 'double' to 'float'
-  Generating Code...
+﻿  NameCard.cpp
   StudyCPP.vcxproj -> D:\CPP\StudyCPP\x64\Debug\StudyCPP.exe
