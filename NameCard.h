@@ -20,6 +20,7 @@ private:
 	int pos;
 public:
 	NameCard(const char* _name, const char* _compName, const char* _phoneNum, int _pos);
-	void ShowNameCardInfo() const;
 	NameCard(const NameCard& _card);
+	~NameCard();
+	void ShowNameCardInfo() const;
 };

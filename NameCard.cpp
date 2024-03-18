@@ -23,6 +23,12 @@ NameCard::NameCard(const NameCard & _card) : pos(_card.pos)
 	phoneNum = new char[strlen(_card.phoneNum) + 1];
 	strcpy(phoneNum, _card.phoneNum);
 }
+NameCard::~NameCard()
+{
+	delete[] name;
+	delete[] compName;
+	delete[] phoneNum;
+}
 void COMP_POS::ShowPosName(int _pos)
 {
 	switch(_pos)
