@@ -23,7 +23,7 @@ public:
 	}
 };
 
-int main()
+int main4()
 {
 	/*Point pos1 = {-2, 4};
 	Point pos2 = {5, 9};

@@ -7,12 +7,21 @@ using namespace std;
 NameCard::NameCard(const char* _name, const char* _compName, const char* _phoneNum, int _pos)
 	:pos(_pos)
 {
-	name = new char[strlen(_name)];
+	name = new char[strlen(_name) + 1];
 	strcpy(name, _name);
-	compName = new char[strlen(_compName)];
+	compName = new char[strlen(_compName) + 1];
 	strcpy(compName, _compName);
-	phoneNum= new char[strlen(_phoneNum)];
+	phoneNum = new char[strlen(_phoneNum) + 1];
 	strcpy(phoneNum, _phoneNum);
+}
+NameCard::NameCard(const NameCard & _card) : pos(_card.pos)
+{
+	name = new char[strlen(_card.name) + 1];
+	strcpy(name, _card.name);
+	compName = new char[strlen(_card.compName) + 1];
+	strcpy(compName, _card.compName);
+	phoneNum = new char[strlen(_card.phoneNum) + 1];
+	strcpy(phoneNum, _card.phoneNum);
 }
 void COMP_POS::ShowPosName(int _pos)
 {
