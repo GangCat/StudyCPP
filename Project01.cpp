@@ -16,21 +16,21 @@ enum {MAKE = 1, DEPOSIT, WITHDRAW, INQUIRE, EXIT};
 class Account
 {
 private:
-	int accID;
+	const int accID;
 	int balance;
 	char* cusName;
 public:
-	Account(int _id, int _balance, char* _name) : accID(_id), balance(_balance)
+	explicit Account(int _id, int _balance, char* _name) : accID(_id), balance(_balance)
 	{
 		cusName = new char[strlen(_name) + 1];
 		strcpy(cusName, _name);
 	}
-	Account(const Account& _copy) : accID(_copy.accID), balance(_copy.balance)
+	explicit Account(const Account& _copy) : accID(_copy.accID), balance(_copy.balance)
 	{
 		cusName = new char[strlen(_copy.cusName) + 1];
 		strcpy(cusName, _copy.cusName);
 	}
-	int GetID() { return accID; }
+	int GetID() const { return accID; }
 	void Deposit(int _money)
 	{
 		balance += _money;
@@ -42,7 +42,7 @@ public:
 		balance -= _money;
 		return _money;
 	}
-	void ShowAccInfo()
+	void ShowAccInfo() const
 	{
 		cout << "°èÁÂID: " << accID << endl;
 		cout << "ÀÌ ¸§: " << cusName << endl;
