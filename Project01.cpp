@@ -57,7 +57,7 @@ public:
 Account* accArr[100];
 int accNum = 0;
 
-int main()
+int mainOOP()
 {
 	int choice;
 	while(1)

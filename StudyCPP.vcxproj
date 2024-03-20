@@ -133,6 +133,7 @@
     <ClCompile Include="Chapter03.cpp" />
     <ClCompile Include="Chapter04.cpp" />
     <ClCompile Include="Chapter05.cpp" />
+    <ClCompile Include="Chapter08.cpp" />
     <ClCompile Include="NameCard.cpp" />
     <ClCompile Include="PartitionTest1.cpp" />
     <ClCompile Include="Printer.cpp" />

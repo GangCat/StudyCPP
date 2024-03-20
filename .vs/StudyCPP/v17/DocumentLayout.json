@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\CPP\\StudyCPP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Chapter08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Chapter08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Project01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Project01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|D:\\CPP\\StudyCPP\\Chapter05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D3FDE-D1F9-4FFF-AF64-D005D8F5799B}|StudyCPP.vcxproj|solutionrelative:Chapter05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Project01.cpp",
               "DocumentMoniker": "D:\\CPP\\StudyCPP\\Project01.cpp",
               "RelativeDocumentMoniker": "Project01.cpp",
               "ToolTip": "D:\\CPP\\StudyCPP\\Project01.cpp",
               "RelativeToolTip": "Project01.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAHUAAAAzAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-18T10:26:46.362Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter08.cpp",
+              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Chapter08.cpp",
+              "RelativeDocumentMoniker": "Chapter08.cpp",
+              "ToolTip": "D:\\CPP\\StudyCPP\\Chapter08.cpp",
+              "RelativeToolTip": "Chapter08.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T13:23:51.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chapter05.cpp",
+              "DocumentMoniker": "D:\\CPP\\StudyCPP\\Chapter05.cpp",
+              "RelativeDocumentMoniker": "Chapter05.cpp",
+              "ToolTip": "D:\\CPP\\StudyCPP\\Chapter05.cpp",
+              "RelativeToolTip": "Chapter05.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T13:23:31.484Z",
               "EditorCaption": ""
             }
           ]
