@@ -1,2 +1,6 @@
-﻿  Chapter08.cpp
+﻿  Project01.cpp
+D:\CPP\StudyCPP\Project01.cpp(79,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\CPP\StudyCPP\Project01.cpp(120,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\CPP\StudyCPP\Project01.cpp(249,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CPP\StudyCPP\Project01.cpp(271,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   StudyCPP.vcxproj -> D:\CPP\StudyCPP\x64\Debug\StudyCPP.exe

@@ -5,7 +5,7 @@ class Base
 {
 public:
     Base(){}
-    virtual void NormalFunc() // 반환 타입을 추가하고 멤버 함수로 선언
+    virtual void NormalFunc()
     {
         cout << "base" << endl;
     }
@@ -15,22 +15,22 @@ class Derived : public Base
 {
 public:
     Derived() : Base() {}
-    void NormalFunc() // 반환 타입을 추가하고 멤버 함수로 선언
+    void NormalFunc()
     {
         cout << "derived" << endl;
     }
 };
 
-int main()
+int main8()
 {
     Base* ptrBase = new Derived();
     ptrBase->NormalFunc(); // derived 출력
     ptrBase->Base::NormalFunc(); // base 출력
     Derived* dr = new Derived();
     dr->NormalFunc();
-
     delete dr;
     delete ptrBase; // 메모리 누수를 방지하기 위해 객체 삭제
+
 
     return 0;
 }
